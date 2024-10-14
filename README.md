@@ -1,4 +1,4 @@
-![MasterHead]("C:\Users\aldul\Downloads\FULLSTACK.png")
+![FULLSTACK](https://github.com/user-attachments/assets/5daa8c98-b86a-4cf9-9408-8d0346ac8e7c)
 
 <h1 align="center">Bienvenido a mi GitHub 👋 Soy Maximiliano</h1>
 <h3 align="center">"Desarrollador Full Stack enfocado en la calidad, escalabilidad y rendimiento"</h3>
